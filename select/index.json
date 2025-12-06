@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Giants",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-06T17:30:29.623798Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Song For Lonely Giants",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/01_Song_For_Lonely_Giants_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Giants",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/02_Giants_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "At the Base of the Giant's Throat",
+      "artist": "Battle of Mice",
+      "has_synced": false,
+      "path": "select/03_At_the_Base_of_the_Giant's_Throat_Battle_of_Mice.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Giants (LŪN Remix)",
+      "artist": "Lights",
+      "has_synced": false,
+      "path": "select/04_Giants_(LŪN_Remix)_Lights.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Giants (PVRIS Remix)",
+      "artist": "Lights",
+      "has_synced": false,
+      "path": "select/05_Giants_(PVRIS_Remix)_Lights.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Giants - Spanish Version",
+      "artist": "Lights",
+      "has_synced": false,
+      "path": "select/06_Giants_-_Spanish_Version_Lights.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Kill Giants (Big Black Delta Remix)",
+      "artist": "The Naked and Famous",
+      "has_synced": true,
+      "path": "select/07_I_Kill_Giants_(Big_Black_Delta_Remix)_The_Naked_and_Famous.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Kill Giants (Kele Remix)",
+      "artist": "The Naked and Famous",
+      "has_synced": false,
+      "path": "select/08_I_Kill_Giants_(Kele_Remix)_The_Naked_and_Famous.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Kill Giants (Stripped)",
+      "artist": "The Naked and Famous",
+      "has_synced": true,
+      "path": "select/09_I_Kill_Giants_(Stripped)_The_Naked_and_Famous.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are Giants",
+      "artist": "Lindsey Stirling feat. Dia Frampton",
+      "has_synced": true,
+      "path": "select/10_We_Are_Giants_Lindsey_Stirling_feat._Dia_Frampton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are Giants (feat. Dia Frampton)",
+      "artist": "Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/11_We_Are_Giants_(feat._Dia_Frampton)_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Woof & Warp of the Quiet Giant's Hem",
+      "artist": "Blitzen Trapper",
+      "has_synced": false,
+      "path": "select/12_Woof_&_Warp_of_the_Quiet_Giant's_Hem_Blitzen_Trapper.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Personal Giants",
+      "artist": "Radical Face",
+      "has_synced": true,
+      "path": "select/13_Personal_Giants_Radical_Face.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Giants",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Giants_ONE_OK_ROCK.txt"
+    }
+  ]
+}

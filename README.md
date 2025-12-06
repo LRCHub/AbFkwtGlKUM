@@ -1,0 +1,52 @@
+# ONE OK ROCK – Giants
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Through silence
+Hear the thunder in you
+I know you're mind is
+Looking for a truce
+Don't need reminding
+We're living proof
+So walk with me and I'll walk with you
+So now we're standing on the edge
+Our backs against the wall
+A penthouse view
+On our own two
+And now we're standing tall
+We can be giants giants
+We can be giants giants
+光り輝く
+栄光の場所
+We can be giants giants
+In the chaos
+Our kingdom fell
+Stole heaven
+So we gave'em hell
+In the pieces
+We found ourselves
+So fight for me
+I'll fight as well
+So now we're standing on the edge
+Our backs against the wall
+A penthouse view
+On our own two
+And now we're standing tall
+We can be giants giants
+We can be giants giants
+光り輝く
+栄光の場所
+We can be giants giants
+We can be giants giants
+We can be giants giants
+'cause every one of us
+Has always been enough
+We can be
+We can be giants
+We can be giants giants
+We can be giants giants
+光り輝く
+栄光の場所
+We can be giants giants
+```
